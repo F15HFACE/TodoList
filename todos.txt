@@ -1,0 +1,5 @@
+get edit to work properly
+duplicates are a problem on web todo
+check for duplicates before adding them
+I can add a new one now
+it still works
